@@ -1,0 +1,9 @@
+{
+  "cortes": {
+    "original": 0.5717649459838867,
+    "cuatro_vistas": 0.6531655192375183,
+    "profunda42": 0.1462201327085495
+  },
+  "uso_control": "incluido en el ajuste",
+  "metodo": "máximo por coordenada que conserva cada una de las 675 detecciones previas de validación"
+}

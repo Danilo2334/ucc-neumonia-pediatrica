@@ -1,0 +1,615 @@
+{
+  "fuentes": {
+    "medlineplus": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Neumonía",
+      "url": "https://medlineplus.gov/spanish/pneumonia.html",
+      "consultado": "2026-11-23"
+    },
+    "oms": {
+      "entidad": "Organización Mundial de la Salud (OMS)",
+      "titulo": "Neumonía infantil",
+      "url": "https://www.who.int/es/news-room/fact-sheets/detail/pneumonia",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_sintomas": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Síntomas de la neumonía",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/sintomas",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_diagnostico": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Diagnóstico de la neumonía",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/diagnostico",
+      "consultado": "2026-11-23"
+    },
+    "cdc": {
+      "entidad": "Centros para el Control y la Prevención de Enfermedades de EE. UU. (CDC)",
+      "titulo": "Enfermedades respiratorias y señales de emergencia",
+      "url": "https://www.cdc.gov/respiratory-viruses/es/about/acerca-de-las-enfermedades-respiratorias.html",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_causas": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Neumonía · Causas y factores de riesgo",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/causas",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_recuperacion": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Neumonía · Recuperación",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/recuperacion",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_tratamiento": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Neumonía · Tratamiento",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/tratamiento",
+      "consultado": "2026-11-23"
+    },
+    "nhlbi_prevencion": {
+      "entidad": "Instituto Nacional del Corazón, los Pulmones y la Sangre de EE. UU. (NHLBI)",
+      "titulo": "Neumonía · Prevención",
+      "url": "https://www.nhlbi.nih.gov/es/salud/neumonia/prevencion",
+      "consultado": "2026-11-23"
+    },
+    "aspiracion_med": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Neumonía por aspiración",
+      "url": "https://medlineplus.gov/spanish/ency/article/000121.htm",
+      "consultado": "2026-11-23"
+    },
+    "hospital_med": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Neumonía adquirida en el hospital",
+      "url": "https://medlineplus.gov/spanish/ency/article/000146.htm",
+      "consultado": "2026-11-23"
+    },
+    "comunidad_med": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Neumonía en niños adquirida en la comunidad",
+      "url": "https://medlineplus.gov/spanish/ency/article/007690.htm",
+      "consultado": "2026-11-23"
+    },
+    "alta_ninos": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Alta de niños con neumonía",
+      "url": "https://medlineplus.gov/spanish/ency/patientinstructions/000011.htm",
+      "consultado": "2026-11-23"
+    },
+    "oximetria_med": {
+      "entidad": "MedlinePlus, Biblioteca Nacional de Medicina de EE. UU.",
+      "titulo": "Pulsioximetría",
+      "url": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/",
+      "consultado": "2026-11-23"
+    },
+    "minsalud_infancia": {
+      "entidad": "Ministerio de Salud y Protección Social de Colombia",
+      "titulo": "Infección respiratoria aguda · Información para familias",
+      "url": "https://herramientaclinicaprimerainfancia.minsalud.gov.co/informacion-en-salud-para-padres/infeccion-respiratoria-aguda/",
+      "consultado": "2026-11-23"
+    },
+    "seip": {
+      "entidad": "Sociedad Española de Infectología Pediátrica (SEIP)",
+      "titulo": "Posicionamiento sobre Mycoplasma pneumoniae · Papel de la radiografía",
+      "url": "https://www.seipweb.es/wp-content/uploads/2024/04/PosicionamientoMycopalsma_S.pdf",
+      "consultado": "2026-11-23"
+    }
+  },
+  "fichas": [
+    {
+      "id": "definicion",
+      "titulo": "Qué es la neumonía",
+      "consultas": [
+        "qué es la neumonía",
+        "qué significa pulmonía",
+        "definición",
+        "qué pasa en los pulmones",
+        "qué son los alvéolos",
+        "infección pulmonar",
+        "qué es esta enfermedad",
+        "pulmonía y neumonía son lo mismo",
+        "qué parte del cuerpo afecta",
+        "pueden afectarse los dos pulmones",
+        "qué función tienen los saquitos de aire"
+      ],
+      "texto": "La neumonía es una infección que puede afectar a uno o a los dos pulmones. Los alvéolos, pequeños sacos que normalmente contienen aire, pueden llenarse de líquido o pus. La gravedad varía según la causa, la edad y la salud de la persona.",
+      "fuente": "medlineplus"
+    },
+    {
+      "id": "causas",
+      "titulo": "Qué puede causar neumonía",
+      "consultas": [
+        "qué la causa",
+        "por qué da neumonía",
+        "por qué se produce la neumonía",
+        "qué produce la neumonía",
+        "por qué aparece u ocurre",
+        "causas frecuentes",
+        "qué la provoca",
+        "origen de la infección",
+        "puede ser causada por bacterias o por virus",
+        "virus bacterias hongos",
+        "tipos",
+        "qué germen",
+        "cuáles son los agentes que la ocasionan",
+        "qué infecciones pueden desencadenarla"
+      ],
+      "texto": "Distintos virus, bacterias y hongos pueden causar neumonía. En la infancia, el neumococo es una causa bacteriana frecuente y el virus respiratorio sincitial es una causa viral frecuente. En niños, las dos formas pueden producir síntomas parecidos.",
+      "fuente": "oms"
+    },
+    {
+      "id": "sintomas",
+      "titulo": "Síntomas frecuentes",
+      "consultas": [
+        "cuáles son los síntomas",
+        "qué síntomas da",
+        "cómo se manifiesta",
+        "tos con o sin flema",
+        "fiebre",
+        "escalofríos",
+        "dolor al toser",
+        "signos en adultos",
+        "qué síntomas presenta la neumonía",
+        "cómo se siente una persona cuando la padece",
+        "qué molestias aparecen al principio",
+        "cómo reconocer sus manifestaciones habituales"
+      ],
+      "texto": "La neumonía puede causar tos, fiebre, escalofríos, falta de aire y dolor en el pecho al respirar o al toser. La tos a veces produce flema. En adultos mayores también puede aparecer debilidad o confusión repentina.",
+      "fuente": "nhlbi_sintomas"
+    },
+    {
+      "id": "sintomas_ninos",
+      "titulo": "Síntomas de neumonía en bebés y niños pequeños",
+      "consultas": [
+        "síntomas en niños",
+        "señales de la neumonía en los niños",
+        "un niño respira muy rápido",
+        "respiración rápida en un bebé",
+        "signos en bebés",
+        "lactantes",
+        "neumonía infantil",
+        "síntomas pediátricos",
+        "cómo se manifiesta en un bebé",
+        "qué síntomas presenta la neumonía en bebés",
+        "cómo se le nota a un recién nacido",
+        "manifestaciones de pulmonía en un lactante",
+        "qué se observa en un niño pequeño cuando respira",
+        "un bebé abre mucho las fosas nasales al respirar"
+      ],
+      "texto": "En un bebé la neumonía puede manifestarse con poco ánimo, inquietud o vómitos, además de tos o fiebre. A veces respira más rápido, abre mucho las aletas de la nariz o se le hunde la piel entre las costillas al tomar aire.",
+      "fuente": "nhlbi_sintomas"
+    },
+    {
+      "id": "prevencion",
+      "titulo": "Prevención en la infancia",
+      "consultas": [
+        "cómo se previene",
+        "cómo prevenirla",
+        "medidas preventivas",
+        "vacunas",
+        "vacunación",
+        "prevenir en niños",
+        "cómo proteger a los niños",
+        "cómo evitar la neumonía",
+        "cómo protegerse",
+        "lavarse las manos",
+        "evitarla",
+        "qué se hace para reducir el riesgo en los niños",
+        "cómo se puede evitar la infección en la infancia",
+        "qué medidas puede tomar la familia"
+      ],
+      "texto": "En la infancia, las vacunas contra el neumococo, Hib, el sarampión y la tos ferina ayudan a prevenir la neumonía. También protegen una alimentación adecuada, el lavado de manos y la reducción del humo dentro del hogar.",
+      "fuente": "oms"
+    },
+    {
+      "id": "riesgo",
+      "titulo": "Quién tiene mayor riesgo de enfermar",
+      "consultas": [
+        "factores de riesgo",
+        "quiénes son vulnerables",
+        "a quién le puede dar",
+        "quiénes tienen más riesgo",
+        "personas mayores",
+        "defensas bajas",
+        "por qué unos enferman más",
+        "a qué personas les afecta más",
+        "en quién es más frecuente que sea grave",
+        "por qué la gente con pocas defensas es vulnerable"
+      ],
+      "texto": "Los menores de dos años y las personas de edad avanzada tienen mayor riesgo de contraer neumonía. También influyen factores como fumar, la desnutrición, las enfermedades pulmonares y las defensas debilitadas.",
+      "fuente": "medlineplus"
+    },
+    {
+      "id": "diagnostico",
+      "titulo": "Cómo se evalúa y qué aporta la radiografía",
+      "consultas": [
+        "cómo se diagnostica",
+        "cómo se detecta",
+        "diagnóstico médico",
+        "qué pruebas hacen",
+        "radiografía de tórax",
+        "para qué sirve la placa",
+        "qué ve el médico en una RX",
+        "cómo se confirma",
+        "cómo sabe un médico que alguien tiene neumonía",
+        "qué revisa al escuchar el pecho",
+        "qué exámenes orientan el diagnóstico",
+        "para qué pide el médico una radiografía de tórax"
+      ],
+      "texto": "El profesional pregunta por los síntomas y los antecedentes, y examina al paciente. Puede pedir una radiografía de tórax para buscar inflamación en los pulmones. La oximetría permite estimar cuánto oxígeno lleva la sangre. El profesional interpreta los resultados junto con la exploración.",
+      "fuente": "nhlbi_diagnostico"
+    },
+    {
+      "id": "tratamiento",
+      "titulo": "En qué consiste el tratamiento",
+      "consultas": [
+        "cómo se trata",
+        "cómo se cura",
+        "tratamiento general",
+        "para qué sirven los antibióticos",
+        "qué son los antivirales",
+        "cómo se maneja la enfermedad en general",
+        "de qué depende el tratamiento",
+        "cómo tratan una neumonía por hongos"
+      ],
+      "texto": "El tratamiento depende del microorganismo y de la gravedad de la infección. Los antibióticos actúan frente a bacterias. Para algunas infecciones por virus u hongos existen otros medicamentos. El equipo de salud valora si la persona necesita atención hospitalaria u oxígeno.",
+      "fuente": "medlineplus"
+    },
+    {
+      "id": "transmision",
+      "titulo": "Cómo se transmiten los microorganismos que la causan",
+      "consultas": [
+        "cómo se contagia",
+        "se contagia por la tos",
+        "es contagiosa",
+        "se pega",
+        "se transmite",
+        "transmisión",
+        "cómo se propaga",
+        "contagio al estornudar",
+        "de qué manera pasa de una persona a otra",
+        "cómo llegan los microbios al pulmón",
+        "qué pasa cuando alguien tose o estornuda cerca"
+      ],
+      "texto": "Algunos de los virus y bacterias que causan neumonía pueden pasar de una persona a otra en las gotitas que se liberan al toser o estornudar. En niños, microorganismos presentes en la nariz o la garganta también pueden llegar al pulmón.",
+      "fuente": "oms"
+    },
+    {
+      "id": "urgencias",
+      "titulo": "Señales para buscar atención inmediata",
+      "consultas": [
+        "señales de alarma",
+        "cuándo ir a urgencias",
+        "cuándo acudir al hospital",
+        "emergencia",
+        "se ahoga",
+        "no puedo respirar",
+        "labios azules o morados",
+        "se le hunden las costillas",
+        "cuándo buscar ayuda",
+        "cuáles son las señales de peligro para ir a urgencias",
+        "en qué casos buscar atención médica de inmediato",
+        "qué signos indican una emergencia en un adulto o un niño"
+      ],
+      "texto": "Busca atención de urgencias de inmediato si hay dificultad importante para respirar. En niños, también son señales de alarma los labios o la cara de color azulado y el hundimiento de la piel entre las costillas al respirar. En adultos, una presión persistente en el pecho o una confusión persistente también requieren atención inmediata.",
+      "fuente": "cdc"
+    },
+    {
+      "id": "viral_bacteriana",
+      "titulo": "Qué diferencia hay entre neumonía viral y bacteriana",
+      "consultas": [
+        "cuál es la diferencia entre viral y bacteriana",
+        "cómo distinguir una neumonía vírica de una bacteriana",
+        "virus o bacteria dan los mismos síntomas",
+        "se puede saber el tipo por los síntomas",
+        "qué significa neumonía viral frente a bacteriana",
+        "sibilancias y neumonía por virus"
+      ],
+      "texto": "La diferencia está en el microorganismo que origina la infección. En niños, ambas pueden producir tos y dificultad respiratoria. Los silbidos al respirar son más frecuentes en las virales, pero ese signo por sí solo no permite saber la causa.",
+      "fuente": "oms"
+    },
+    {
+      "id": "resfriado_gripe",
+      "titulo": "Neumonía, gripe y resfriado",
+      "consultas": [
+        "qué diferencia hay con una gripa",
+        "cómo se distingue de un resfriado",
+        "pulmonía o catarro",
+        "por qué se puede confundir con la influenza",
+        "con tos y fiebre se sabe si es una gripe",
+        "se manifiestan igual el resfriado y la neumonía"
+      ],
+      "texto": "La tos o la fiebre pueden aparecer tanto en un resfriado o una gripe como en una neumonía. Ante esa coincidencia, el profesional considera cómo evolucionan los síntomas, escucha los pulmones y decide si hacen falta pruebas. Un síntoma aislado no basta para diferenciarlas.",
+      "fuente": "nhlbi_diagnostico"
+    },
+    {
+      "id": "aspiracion",
+      "titulo": "Neumonía por aspiración",
+      "consultas": [
+        "qué es una neumonía por aspiración",
+        "qué relación tiene atragantarse con la pulmonía",
+        "qué pasa si comida o saliva se van al pulmón",
+        "qué significa broncoaspiración",
+        "problemas para tragar y neumonía"
+      ],
+      "texto": "Puede ocurrir cuando comida, bebida, saliva o vómito entran por la vía respiratoria y llegan a los pulmones. Hay mayor riesgo cuando cuesta tragar o cuando la persona está poco alerta. Ese mecanismo explica por qué una neumonía también puede aparecer después de una broncoaspiración.",
+      "fuente": "aspiracion_med"
+    },
+    {
+      "id": "comunidad_hospital",
+      "titulo": "Neumonía adquirida en la comunidad o en el hospital",
+      "consultas": [
+        "qué diferencia hay entre comunitaria y hospitalaria",
+        "qué significa neumonía nosocomial",
+        "qué es la neumonía intrahospitalaria",
+        "se adquiere en el hospital o en la comunidad",
+        "infección asociada al ventilador",
+        "neumonía hospitalaria y resistencia"
+      ],
+      "texto": "La comunitaria se adquiere fuera del hospital. La intrahospitalaria aparece durante un ingreso. Los gérmenes del hospital pueden ser más resistentes a los tratamientos que los habituales en la comunidad. El uso de ventilación mecánica aumenta el riesgo durante la hospitalización.",
+      "fuente": "hospital_med"
+    },
+    {
+      "id": "riesgo_prematuros",
+      "titulo": "Por qué son vulnerables los bebés y los prematuros",
+      "consultas": [
+        "por qué un bebé prematuro tiene mayor riesgo",
+        "prematuridad y neumonía",
+        "por qué son vulnerables los bebés",
+        "qué pasa con los que nacieron antes de tiempo",
+        "inmadurez del sistema inmunitario en lactantes"
+      ],
+      "texto": "En los primeros años de vida las defensas todavía están madurando. El NHLBI señala que los bebés nacidos antes de término corren un riesgo mayor de neumonía. El riesgo individual depende también de otros factores de salud.",
+      "fuente": "nhlbi_causas"
+    },
+    {
+      "id": "mayores_sin_fiebre",
+      "titulo": "Cómo puede presentarse en adultos mayores",
+      "consultas": [
+        "siempre hay fiebre en la neumonía",
+        "una persona mayor puede tenerla sin fiebre",
+        "cómo se manifiesta en ancianos",
+        "un adulto mayor puede estar confundido",
+        "síntomas en personas de la tercera edad",
+        "qué ocurre si la temperatura está baja"
+      ],
+      "texto": "En personas mayores o con defensas debilitadas la fiebre puede faltar y la temperatura incluso puede ser baja. En algunos adultos mayores destacan la debilidad o un cambio repentino del estado mental. La ausencia de fiebre por sí sola no descarta una neumonía.",
+      "fuente": "nhlbi_sintomas"
+    },
+    {
+      "id": "radiografia_limites",
+      "titulo": "Qué puede decir la radiografía sobre la causa",
+      "consultas": [
+        "puede una radiografía distinguir virus de bacterias",
+        "se ve el germen en una placa de tórax",
+        "la radiografía por sí sola dice qué causó la neumonía",
+        "cuáles son los límites de una placa",
+        "se puede saber si es viral o bacteriana mirando la imagen",
+        "unas manchas en la radiografía identifican la bacteria"
+      ],
+      "texto": "En la neumonía pediátrica, una placa de tórax puede ayudar a estudiar cambios en el pulmón y posibles complicaciones. El aspecto de la imagen por sí solo no identifica el microorganismo. Para investigar la causa hacen falta más datos clínicos y, según el caso, pruebas específicas.",
+      "fuente": "seip"
+    },
+    {
+      "id": "oximetria",
+      "titulo": "Para qué se mide la saturación de oxígeno",
+      "consultas": [
+        "qué es la oximetría de pulso",
+        "para qué se usa el oxímetro en el dedo",
+        "qué significa saturación de oxígeno",
+        "cómo miden el oxígeno sin sacar sangre",
+        "en qué consiste la pulsioximetría",
+        "qué mide la saturación"
+      ],
+      "texto": "La pulsioximetría estima qué proporción de la hemoglobina de la sangre transporta oxígeno. Suele usarse un pequeño sensor en el dedo y no requiere extraer sangre. La medición ayuda a valorar la oxigenación y se interpreta junto con los síntomas y la exploración.",
+      "fuente": "oximetria_med"
+    },
+    {
+      "id": "pruebas_germen",
+      "titulo": "Pruebas para investigar el microorganismo",
+      "consultas": [
+        "cómo saben cuál es el germen que la causó",
+        "para qué se pide un análisis de esputo",
+        "qué es el hemocultivo",
+        "qué aporta el hemograma",
+        "qué pruebas de laboratorio identifican bacterias",
+        "para qué hacen un cultivo de flema",
+        "qué aporta analizar la sangre"
+      ],
+      "texto": "En ciertos casos se analiza la flema expulsada al toser para buscar el microorganismo. Un hemocultivo busca microbios en la sangre. El hemograma aporta otro tipo de información y ayuda a valorar la respuesta del organismo ante una infección.",
+      "fuente": "nhlbi_diagnostico"
+    },
+    {
+      "id": "tomografia",
+      "titulo": "Para qué sirve una tomografía de tórax",
+      "consultas": [
+        "para qué se hace una tomografía",
+        "cuál es la diferencia entre la placa y un TAC",
+        "qué es una TC de tórax",
+        "por qué piden un escáner del pulmón",
+        "la tomografía muestra más que los rayos X",
+        "radiografía comparada con la tomografía"
+      ],
+      "texto": "La tomografía ofrece imágenes más detalladas que la radiografía. Puede ayudar a valorar cuánto pulmón está afectado o a buscar complicaciones como una colección de pus. El equipo clínico decide cuándo se justifica pedirla.",
+      "fuente": "nhlbi_diagnostico"
+    },
+    {
+      "id": "recuperacion",
+      "titulo": "Cuánto puede durar la recuperación",
+      "consultas": [
+        "cuánto tiempo tarda en curarse",
+        "cuánto dura una neumonía",
+        "cuánto se demora en recuperarse",
+        "queda cansancio después de una pulmonía",
+        "cuándo se retoman las actividades en general",
+        "tiempo de recuperación en adultos",
+        "cuánto puede durar la convalecencia"
+      ],
+      "texto": "El tiempo varía. Algunas personas retoman su rutina en una o dos semanas y otras necesitan un mes o más. El cansancio puede durar después de que otros síntomas disminuyan. El regreso a las actividades habituales se acuerda según la evolución de cada persona.",
+      "fuente": "nhlbi_recuperacion"
+    },
+    {
+      "id": "recuperacion_ninos",
+      "titulo": "Cómo se recuperan los niños después del alta",
+      "consultas": [
+        "cuánto dura la tos de un niño después del alta",
+        "cuándo vuelve el apetito de los niños",
+        "cómo evoluciona un niño después de salir del hospital",
+        "cuánto tarda un bebé o un niño en recuperarse",
+        "por qué sigue tosiendo después del alta pediátrica",
+        "recuperación infantil"
+      ],
+      "texto": "Después del alta por neumonía, la tos de un niño puede tardar alrededor de una o dos semanas en disminuir. El sueño y el apetito también pueden tardar varios días en normalizarse. Si aparece dificultad para respirar o el niño empeora, necesita una nueva valoración.",
+      "fuente": "alta_ninos"
+    },
+    {
+      "id": "complicaciones",
+      "titulo": "Complicaciones posibles de una neumonía",
+      "consultas": [
+        "qué complicaciones puede tener",
+        "por qué puede llegar a ser grave",
+        "qué es un absceso pulmonar",
+        "qué relación tiene con sepsis e insuficiencia respiratoria",
+        "puede aparecer un derrame pleural",
+        "qué consecuencias tiene una neumonía grave"
+      ],
+      "texto": "En cuadros graves, el pulmón puede dejar de aportar suficiente oxígeno. También pueden aparecer un absceso, que es una cavidad con pus, o líquido alrededor del pulmón. Otra complicación es la sepsis, una respuesta grave del organismo a la infección que puede lesionar otros órganos.",
+      "fuente": "nhlbi_recuperacion"
+    },
+    {
+      "id": "hospitalizacion",
+      "titulo": "Cuándo se utiliza oxígeno o atención hospitalaria",
+      "consultas": [
+        "todas las neumonías requieren hospitalización",
+        "por qué usan oxigenoterapia",
+        "qué hacen en el hospital en casos graves",
+        "cuándo se usa un ventilador",
+        "en qué consiste la atención en cuidados intensivos",
+        "qué función tiene el oxígeno en el tratamiento"
+      ],
+      "texto": "Muchas personas pueden recuperarse en casa con el plan indicado. En una neumonía grave, el hospital puede aportar oxígeno para mejorar la oxigenación y administrar líquidos o medicamentos por una vena. Algunos pacientes con compromiso respiratorio importante necesitan asistencia con un ventilador.",
+      "fuente": "nhlbi_tratamiento"
+    },
+    {
+      "id": "vacunas",
+      "titulo": "Qué protección ofrecen las vacunas",
+      "consultas": [
+        "por qué una persona vacunada puede tener neumonía",
+        "qué vacunas ayudan a prevenirla",
+        "la vacuna del neumococo evita toda neumonía",
+        "para qué sirve la vacuna contra la influenza",
+        "hay una sola vacuna para todos los tipos",
+        "qué protección ofrece vacunarse"
+      ],
+      "texto": "Las vacunas actúan contra algunos de los microorganismos capaces de causar neumonía, como el neumococo y el virus de la gripe. Como existen muchas causas distintas, una persona vacunada todavía puede enfermar. La vacunación puede reducir la gravedad de las infecciones frente a las que protege.",
+      "fuente": "nhlbi_prevencion"
+    },
+    {
+      "id": "humo",
+      "titulo": "Cómo influyen el humo y la calidad del aire",
+      "consultas": [
+        "el humo del cigarrillo aumenta el riesgo",
+        "cómo influye la contaminación del aire",
+        "qué pasa con las personas que fuman",
+        "por qué fumar favorece la neumonía",
+        "qué efecto tiene el humo sobre las vías respiratorias"
+      ],
+      "texto": "El humo del tabaco dificulta que las vías respiratorias eliminen el moco. Respirar aire contaminado o gases irritantes de manera habitual también se asocia a un mayor riesgo. Son factores que favorecen la enfermedad, mientras que los responsables de una neumonía infecciosa son microorganismos.",
+      "fuente": "nhlbi_causas"
+    },
+    {
+      "id": "tratamiento_antibioticos",
+      "titulo": "Por qué el tratamiento cambia con la causa",
+      "consultas": [
+        "sirven los antibióticos para la neumonía viral",
+        "por qué se usan antibióticos en la bacteriana",
+        "diferencia entre antibiótico y antiviral",
+        "todas las neumonías se tratan con antibióticos",
+        "antimicóticos para neumonía por hongos",
+        "por qué se eligen medicamentos diferentes"
+      ],
+      "texto": "Los antibióticos se utilizan frente a bacterias. Una neumonía viral puede requerir un antiviral en algunos casos, según el virus. Una infección por hongos se trata con otro grupo de medicamentos. La elección del tratamiento y su duración corresponden al profesional que evalúa al paciente.",
+      "fuente": "nhlbi_tratamiento"
+    },
+    {
+      "id": "atipica",
+      "titulo": "Qué significa neumonía atípica",
+      "consultas": [
+        "qué es la neumonía atípica",
+        "por qué la llaman neumonía errante",
+        "neumonía por micoplasma",
+        "qué tiene que ver Mycoplasma pneumoniae",
+        "atípica significa que es leve"
+      ],
+      "texto": "El término se utiliza para algunas neumonías que presentan características diferentes de las habituales. Mycoplasma pneumoniae puede producir un cuadro leve, mientras que otras bacterias de este grupo pueden causar infecciones graves. La palabra «atípica» por sí sola no determina la gravedad.",
+      "fuente": "nhlbi_causas"
+    },
+    {
+      "id": "tiraje",
+      "titulo": "Qué es el tiraje y por qué importa en niños",
+      "consultas": [
+        "qué significa tiraje intercostal",
+        "por qué se hunden las costillas al respirar",
+        "qué es la retracción entre las costillas",
+        "qué significa que se marque el pecho al respirar",
+        "cuáles son los signos de esfuerzo respiratorio en niños"
+      ],
+      "texto": "Se llama tiraje al hundimiento de la piel entre las costillas cuando el niño toma aire. Indica que hace más esfuerzo para respirar. El Ministerio de Salud de Colombia lo incluye entre las señales de alarma en una infección respiratoria infantil y recomienda buscar atención inmediata.",
+      "fuente": "minsalud_infancia"
+    },
+    {
+      "id": "alimentacion_lactancia",
+      "titulo": "Alimentación y protección durante la infancia",
+      "consultas": [
+        "qué relación tiene la lactancia materna con la neumonía",
+        "por qué importa la nutrición infantil",
+        "cómo influye la desnutrición en la infancia",
+        "la leche materna ayuda a proteger al bebé",
+        "alimentación y defensas frente a la neumonía"
+      ],
+      "texto": "La alimentación adecuada apoya las defensas infantiles. La OMS incluye la lactancia materna exclusiva durante los primeros seis meses entre las medidas que ayudan a proteger al bebé frente a la neumonía. La malnutrición aumenta su vulnerabilidad.",
+      "fuente": "oms"
+    },
+    {
+      "id": "radiografia_seguimiento",
+      "titulo": "Por qué la placa puede mejorar después que el niño",
+      "consultas": [
+        "por qué sigue alterada la radiografía aunque el niño esté mejor",
+        "cuándo se limpia la placa después de la neumonía",
+        "se repiten los rayos X después del tratamiento",
+        "qué es una radiografía de seguimiento",
+        "pueden persistir las imágenes después de mejorar"
+      ],
+      "texto": "En algunos niños, los cambios visibles en la radiografía tardan varias semanas en desaparecer, incluso si el niño ya se siente mejor. El profesional decide según la evolución si hace falta una imagen de seguimiento.",
+      "fuente": "comunidad_med"
+    },
+    {
+      "id": "cuidados_recuperacion",
+      "titulo": "Cuidados generales durante la recuperación",
+      "consultas": [
+        "cómo se cuida una persona mientras se recupera",
+        "qué hábitos ayudan durante la convalecencia",
+        "se puede hacer ejercicio después de tener neumonía",
+        "qué cuidados siguen en casa",
+        "descanso y actividad física después de una pulmonía"
+      ],
+      "texto": "El descanso, una alimentación suficiente y evitar el humo acompañan el plan indicado por el equipo de salud. El esfuerzo se retoma de forma gradual. Si los síntomas empeoran o reaparece dificultad respiratoria, se debe buscar atención médica.",
+      "fuente": "nhlbi_recuperacion"
+    },
+    {
+      "id": "gripa_despues",
+      "titulo": "Por qué puede aparecer después de la gripe",
+      "consultas": [
+        "una gripe puede terminar en neumonía",
+        "puede aparecer después de un resfriado",
+        "qué relación hay con una infección viral anterior",
+        "se puede tener una infección bacteriana después de una viral",
+        "gripa que se complica en pulmonía"
+      ],
+      "texto": "Algunos virus respiratorios pueden causar neumonía, entre ellos el de la influenza. Además, una persona que ha pasado una gripe o un resfriado puede desarrollar después una neumonía bacteriana. Son dos maneras distintas en que esos episodios pueden estar relacionados.",
+      "fuente": "nhlbi_causas"
+    }
+  ]
+}

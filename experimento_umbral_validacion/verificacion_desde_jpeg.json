@@ -1,0 +1,92 @@
+{
+  "n": 624,
+  "lote": 32,
+  "regla_sha256": "d5f3e9865d86cd0dea0bf527ea473b0556e213286b8be47fc31fec5656858171",
+  "cortes": {
+    "original": 0.5717649459838867,
+    "cuatro_vistas": 0.6531655192375183,
+    "profunda42": 0.1462201327085495
+  },
+  "pesos_sha256": {
+    "original": "2a9c5af1a0fe59ec6ca25a4cf2bf8cbf0dc1c1a332fed6a73484c6decea9806f",
+    "cuatro_vistas": "33f784839c5807f75d539cce240acb4f778255fa5b106c2cbef2129644003dcf",
+    "profunda42": "c8d52aaa937e7addc563ec4edbf9cca1d88f60107d442ef0b8124e1ab11c8b73"
+  },
+  "max_diferencia_archivada": {
+    "original": 0.0,
+    "cuatro_vistas": 0.0,
+    "profunda42": 0.0
+  },
+  "matriz_base": {
+    "VP": 372,
+    "FP": 86,
+    "FN": 18,
+    "VN": 148
+  },
+  "matriz_nueva": {
+    "VP": 372,
+    "FP": 84,
+    "FN": 18,
+    "VN": 150
+  },
+  "vp_previas_conservadas": 372,
+  "vp_previas_perdidas": 0,
+  "fp_nuevas": 0,
+  "cambios": [
+    {
+      "archivo": "test/NORMAL/IM-0033-0001.jpeg",
+      "etiqueta": "NORMAL",
+      "base": 1,
+      "pred": 0,
+      "puntajes": {
+        "original": 0.7161630392074585,
+        "cuatro_vistas": 0.7999650239944458,
+        "profunda42": 0.10707901418209076
+      },
+      "puntajes_unitarios_app": {
+        "original": 0.7161644697189331,
+        "cuatro_vistas": 0.7999651432037354,
+        "profunda42": 0.10707886517047882
+      },
+      "votos_bajo_corte": [
+        "profunda42"
+      ]
+    },
+    {
+      "archivo": "test/NORMAL/NORMAL2-IM-0374-0001-0001.jpeg",
+      "etiqueta": "NORMAL",
+      "base": 1,
+      "pred": 0,
+      "puntajes": {
+        "original": 0.5716173052787781,
+        "cuatro_vistas": 0.9298796653747559,
+        "profunda42": 0.7028961777687073
+      },
+      "puntajes_unitarios_app": {
+        "original": 0.5716172456741333,
+        "cuatro_vistas": 0.9298797249794006,
+        "profunda42": 0.7028977274894714
+      },
+      "votos_bajo_corte": [
+        "original"
+      ]
+    }
+  ],
+  "RX_003": {
+    "archivo": "test/NORMAL/NORMAL2-IM-0173-0001-0001.jpeg",
+    "etiqueta": "NORMAL",
+    "base": 1,
+    "pred": 1,
+    "puntajes": {
+      "original": 0.8764277100563049,
+      "cuatro_vistas": 0.9870073199272156,
+      "profunda42": 0.9497630000114441
+    },
+    "puntajes_unitarios_app": {
+      "original": 0.8764290809631348,
+      "cuatro_vistas": 0.9870073199272156,
+      "profunda42": 0.9497624635696411
+    },
+    "votos_bajo_corte": []
+  }
+}
